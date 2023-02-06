@@ -2,7 +2,7 @@
 
 
 ### Requirements
-- CUDA capable GPU, CUDA drivers, g++.
+- CUDA capable GPU, CUDA drivers, g++, CMake.
 
 ### How To Run
 - Create a folder named "build" in project. Open terminal in that folder.
